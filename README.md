@@ -1,2 +1,2 @@
 # Creator-Balance
-Keep track of all your creator earnings in one place!
+Keep track of all your creator earnings on all platforms in one place! Stay organized, Motivated, Aware and In control of all how much money you're pulling in from social media platorms!If you are a content creator with goals of building wealth creating/uploading content,this appis perfect for you!
