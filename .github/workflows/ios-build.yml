@@ -41,5 +41,3 @@ jobs:
       with:
         name: CreatorBalance-ipa
         path: ios/App/build/App.ipa
-
-
